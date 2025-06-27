@@ -1,8 +1,8 @@
 username = "ec2-user"
 password = "Devops123"
 
-in_username = input("Please enter username")
-in_password = input("Please enter password")
+in_username = input("Please enter username:")
+in_password = input("Please enter password:")
 
 if username == in_username:
     if password == in_password:
