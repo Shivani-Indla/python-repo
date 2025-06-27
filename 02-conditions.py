@@ -6,5 +6,5 @@ try:
         print("given num is graterthan 10")
     else:
         print("given num is not lessthan or equal to 10")
-except:
+except ValueError:
     print("Please enter a number")
