@@ -5,9 +5,9 @@
 
 #Use cases
 
-def add(num_1, num_2):
-    res = num_1 + num_2
+def add(a, b):
+    res = a + b
     return res
 #calling the function
-res = add(num_1=1, num_2=2)
-print(res)
+result = add(a=1, b=2)
+print(result)
