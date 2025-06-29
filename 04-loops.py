@@ -5,6 +5,6 @@ for i in sample_list:
 
     # by using dictionary in loops
 
-sample_dict = {"a: 1", "b: 2", "c: 3"}
+sample_dict = {'a: 1', 'b: 2', 'c: 3'}
 for i,j in sample_dict.items():
     print(i,j)
