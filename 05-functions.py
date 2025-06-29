@@ -14,4 +14,4 @@ def add(a, b, c=3):
 #calling the function
 result = add(a=1, b=2)
 print(result)
-help(add)
+help(result)
